@@ -6,6 +6,9 @@ Download all the files and use the OpenSCAD to modify and scale the STL files.
 
 The included PDF file "Kwawu 3.0 Wrap Version Instructional Guide" will show you how to download the Open SCAD program and use the code in these files to size this model.
 
+Instructional videos for this design can be found here.
+https://www.youtube.com/playlist?list=PLO2iVws0boe0Yrh_1auXd5TTmXr6_y3zT
+
 I have redesigned the Kwawu arm to be more natural looking and more functional. The terminal device has a much higher grip strength and functionality. Very good at picking up small things with index finger and thumb and big things with whole hand.
 
 This version is the wrap version intended for people with long forearm residual limbs.
